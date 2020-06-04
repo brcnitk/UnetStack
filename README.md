@@ -8,7 +8,4 @@ This page provides a solution to UnetStack simulation related issues
 ![](Images/Node-1.png)
 ![](Images/Node-2.png)
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+> notice the difference, in node 1 window "Dashboards" is missing

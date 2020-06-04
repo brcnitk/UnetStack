@@ -7,7 +7,7 @@ In the simulation of 2-node-network.groovy in unet-3.1.0, shell browser for node
   <img src="Images/Node-2.png" width="450" /> 
 </p>
 
-notice the difference, in node 1 window "Dashboards" is missing
+notice the difference, in node 1 shell window (down) "Dashboards" is missing
 
 ## Reason
 

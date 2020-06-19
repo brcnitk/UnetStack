@@ -7,7 +7,7 @@ In the simulation of [2-node-network.groovy](Source_Code/2-node-network.groovy) 
   <img src="Images/Node-2.png" width="450" /> 
 </p>
 
-notice the difference, in node 1 shell window (down) "Dashboards" is missing
+notice the difference, in node 1's web interface window (down), in the left panel "Dashboards" is missing, web shell is not running properly.
 
 ## Reason
 

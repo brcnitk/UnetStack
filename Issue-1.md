@@ -14,3 +14,5 @@ notice the difference, in node 1 shell window (down) "Dashboards" is missing
 The port number is occupied by the web server (Jetty) running with unet-3.0.0
 
 ## Solution
+
+Change the port number of node-1 (or the node, which is not running properly), to change the port number, open the simulation script, locate the statements written for node deployment. In the line for deployment of node-1, change the port number given as value for the 'web' property of the node. (in this case change from 8081  to 8083 or something)

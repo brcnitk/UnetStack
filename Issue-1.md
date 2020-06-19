@@ -11,7 +11,7 @@ notice the difference, in node 1 shell window (down) "Dashboards" is missing
 
 ## Reason
 
-The port number is occupied by the web server (Jetty) running with unet-3.0.0
+This happens when you are using unet-3.1.0 along with unet-3.0.0 previously available in your system. The port number is occupied by the web server (Jetty) instance running with unet-3.0.0. 
 
 ## Solution
 

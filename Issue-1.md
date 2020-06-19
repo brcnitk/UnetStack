@@ -7,7 +7,7 @@ In the simulation of [2-node-network.groovy](Source_Code/2-node-network.groovy) 
   <img src="Images/Node-2.png" width="450" /> 
 </p>
 
-notice the difference, in node 1's web interface window (down), in the left panel "Dashboards" is missing, web shell is not running properly.
+notice the difference, in node 1's web interface window (down), in the left panel "Dashboards" is missing (even the other menus), and the web shell is not running properly. It is basically not the web interface to be rendered by unet-3.1.0, instead it is the unet-3.0.0 web interface rendered, because of collision in the port number.
 
 ## Reason
 
